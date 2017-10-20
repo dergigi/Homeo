@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Homeo</string>
+    <string-array name="dilutions">
+        <item>D1</item>
+        <item>C1</item>
+        <item>C2</item>
+        <item>C3</item>
+        <item>C4</item>
+        <item>C12</item>
+        <item>C30</item>
+        <item>C500</item>
+        <item>C1000</item>
+    </string-array>
 </resources>
