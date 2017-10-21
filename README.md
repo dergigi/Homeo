@@ -8,13 +8,13 @@ Lightweight. Non-intrusive. Secure.
 
 Gone are the days of antivirus software slowing down your computer. Homeo is is unintrusive, has no side-effects, and provides a strong feeling of security.
 
-![Homeo](https://github.com/Gigi33/Homeo/raw/master/screenshots/homeo.jpg)
+<img src="https://github.com/Gigi33/Homeo/raw/master/screenshots/homeo.jpg" align="center" height="462.5" width="270">
 
 ## 🛡️ Potent Protection
 
 Our *Potency Protection Level* technology puts you back in control. You can choose which protection level is best suited for your needs.
 
-![Potency Protection Level](https://github.com/Gigi33/Homeo/raw/master/screenshots/pplvl.jpg)
+<img src="https://github.com/Gigi33/Homeo/raw/master/screenshots/pplvl.jpg" align="center" height="302.75" width="270">
 
 ## 💮 Proven Methods
 
