@@ -20,6 +20,11 @@ Our *Potency Protection Level* technology puts you back in control. You can choo
 
 Based on over two centuries of research and experience, Homeo Security applies methods from the area of alternative medicine to cyber security. The success rate and effectiveness of our methods are on par with those in the medical area on which this software is based.
 
+## 🕊️ Free as in Freedom
+
+We value transparency as much as we value security. That's why Homeo Security is developing all software, including Homeo, as free/libre and open source software.
+
+Our security algorithms which are the base of *Potency Protection Level* technology are free, open source software and accessible for all.
 
 ----
 
